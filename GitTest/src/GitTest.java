@@ -12,5 +12,9 @@ public class GitTest {
 	public static void aWin8Func() {
 		System.out.println("Ich bin eine Ausgabe, die in Win8 erstellt wurde.");
 	}
+	
+	public static void ttt() {
+		System.out.println("ttt");
+	}
 
 }
